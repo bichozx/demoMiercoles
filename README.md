@@ -1,6 +1,6 @@
 # demoMiercoles
 
-Repositorio de práctica para la creación del proyecto final de Backend 2.
+Repositorio de práctica para la creación del proyecto final de Backend 2, https://github.com/bichozx/demoMiercoles.
 
 📌 Descripción
 
